@@ -23,3 +23,5 @@ yarn-error.log
 /.zed
 /storage/framework
 /storage/logs
+
+firebase-auth.json
