@@ -1,0 +1,5 @@
+# Deployment configuration for Laravel on cPanel
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/sheriapo/public_html/
